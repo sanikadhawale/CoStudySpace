@@ -1,1 +1,1 @@
-A Virtual Study Platform for Students
+Co-Study Space: A Virtual Study Platform for Students.
